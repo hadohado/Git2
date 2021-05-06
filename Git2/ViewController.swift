@@ -10,10 +10,14 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    
+    var new = 1
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         var myStr = "new"
+        var old = 9
     }
 
 
